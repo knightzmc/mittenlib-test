@@ -1,0 +1,3 @@
+name: MittenLibTest
+version: '${version}'
+main: me.bristermitten.mittenlibtest.MittenLibTest
